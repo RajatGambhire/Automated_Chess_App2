@@ -1,3 +1,5 @@
+Automated Chess Engine ____ By___ Rajat Gambhire
+
 <div align="center">
   <a href="https://github.com/GuillaumeSD/Chesskit">
     <img width="120" height="120" src="https://github.com/GuillaumeSD/Chesskit/blob/main/public/android-chrome-192x192.png" alt="Logo">
@@ -89,7 +91,7 @@ npm run deploy
 Chesskit is licensed under the GNU Affero General Public License 3. See [copying](COPYING.md) for
 details.
 
-## Growing thanks to you ❤️
+## Growing thanks to  ❤️ By Rajat Gambhire
 
 [![Stargazers over time](https://starchart.cc/GuillaumeSD/Chesskit.svg?variant=adaptive)](https://starchart.cc/GuillaumeSD/Chesskit)
 
