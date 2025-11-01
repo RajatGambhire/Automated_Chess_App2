@@ -13,7 +13,6 @@ Chesskit aims to offer all the chess related features it can, while being free a
 
 ## Features
 
-- Load and review games from [chess.com](https://chess.com) and [lichess.org](https://lichess.org)
 - Analysis board with live engine evaluation, custom arrows, evaluation graph, ...
 - Moves classification (Brilliant, Great, Good, Mistake, Blunder, ...)
 - Chess960 and Puzzles support
